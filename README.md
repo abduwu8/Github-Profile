@@ -8,8 +8,8 @@ I've written a variety of programs as a hobbyist developer since back when I was
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,java,typescript,python&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,java,typescript,python&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### Technologies
 
