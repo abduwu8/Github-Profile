@@ -7,7 +7,7 @@ I've written a variety of programs as a hobbyist developer since back when I was
 
 ### Languages
 
-[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,c&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,c&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 ### Technologies
@@ -15,9 +15,9 @@ I've written a variety of programs as a hobbyist developer since back when I was
 [![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,nextjs,mongodb,firebase,aws,docker,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![Technologies](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,nextjs,mongodb,firebase,aws,docker,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
-### Other skills (not programming related)
+### Other skills
 
 [![Other skills](https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 [![Other skills](https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-### Stats
+
 
